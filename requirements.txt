@@ -10,7 +10,7 @@ itsdangerous==0.24
 Jinja2==2.10
 Keras==2.2.4
 Keras-Applications==1.0.6
-keras-contrib==2.0.8
+git+git://github.com/keras-team/keras-contrib.git@master#egg=keras-contrib
 Keras-Preprocessing==1.0.5
 Markdown==3.0.1
 MarkupSafe==1.0
