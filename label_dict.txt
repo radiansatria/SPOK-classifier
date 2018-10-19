@@ -1,0 +1,12 @@
+*MASKING*
+B-S
+I-S
+B-P
+B-O
+B-Pel
+I-Pel
+O
+B-K
+I-K
+I-P
+I-O
